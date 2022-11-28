@@ -12,4 +12,5 @@ Página ADMIN: http://localhost:8000/admin
 Login admin:
 
 u: vinicius
+
 s: 12345678
