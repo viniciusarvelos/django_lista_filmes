@@ -1,5 +1,5 @@
 # LISTA FILMES
-Aplicativo CRUD desenvolvido em DJANGO como participação do fórum avaliativo da disciplina Programação Back-end do Curso de Análise e Desenvolvimento de Sistemas do UNIPAM
+Aplicativo CRUD desenvolvido utilizando o DJANGO como participação do fórum avaliativo da disciplina Programação Back-end do Curso de Análise e Desenvolvimento de Sistemas do UNIPAM
 
 Comando para executar o projeto:
 
